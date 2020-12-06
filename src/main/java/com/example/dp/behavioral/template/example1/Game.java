@@ -1,4 +1,4 @@
-package com.example.dp.behavioral.template;
+package com.example.dp.behavioral.template.example1;
 
 public abstract class Game {
     abstract void initialize();
